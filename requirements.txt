@@ -4,3 +4,4 @@ python-dotenv
 langchain-google-genai
 langchain-core
 pydantic
+google-genai<3.0.0
