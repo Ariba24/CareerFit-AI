@@ -1,6 +1,10 @@
 # 🚀 CareerFit AI
 ### Resume Intelligence & Career Guidance
 
+[🚀 Launch CareerFit AI](https://careerfit-ai-ariba.streamlit.app/)
+
+**Live Demo | AI-Powered Resume Analysis & Career Guidance**
+
 **AI-Powered Career Tool**
 
 CareerFit AI is an AI-powered resume analysis and career guidance application that compares resumes against job descriptions, evaluates skill alignment, identifies potential skill gaps, and generates personalized career learning recommendations.
